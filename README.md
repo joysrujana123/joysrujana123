@@ -20,4 +20,4 @@ Improving programming skills by building Python mini projects and exploring soft
 
 ## GitHub Repository
 Check my projects here:
-https://github.com/joysrujana123/python_practice
+https://github.com/joysrujana123/python-practice
