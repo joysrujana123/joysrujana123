@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Joy Srujana 
 
-<!--
-**joysrujana123/joysrujana123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student  
+💻 Learning Python Programming  
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Problem Solving
+- Basic Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Calculator
+- To Do Manager
+- Password Generator
+- Guessing Game
+- Student Marks Manager
+
+## Current Goal
+Improving programming skills by building Python mini projects and exploring software development.
+
+## GitHub Repository
+Check my projects here:
+https://github.com/joysrujana123/python-mini-projects
